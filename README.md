@@ -35,7 +35,7 @@ amazon-clone/
 ├── images/
 │   ├── logo.jpg
 │   ├── banner.jpg
-│   └── screenshot.jpg
+├── screenshot
 ├── index.html
 ├── style.css
 └── README.md
